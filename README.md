@@ -36,8 +36,6 @@
 
 - 💬 Ask me about **Three.js**
 
-- 📫 How to reach me **johnshilton99@gmail.com**
-
 - ⚡ Fun fact **I am game enthusiast**
 <h2>
 <h1></h1>
